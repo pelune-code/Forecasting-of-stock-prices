@@ -1,4 +1,4 @@
-Work: Forecasting of stock prices\n
+Work: Forecasting of stock prices,
 Author: Peter Lukáš Nedbálek
 
 This project consists of implementation of 2 technical indicators:
