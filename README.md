@@ -1,5 +1,6 @@
-Work: Forecasting of stock prices,
-Author: Peter Lukáš Nedbálek
+Work: Forecasting of stock prices
+- Author: Peter Lukáš Nedbálek
+- Supervisor: Mgr. Katarína Lučivjanská, PhD.
 
 This project consists of implementation of 2 technical indicators:
 - SMA-Crossover (Simple Moving Average-Crossover)
